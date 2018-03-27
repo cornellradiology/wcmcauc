@@ -14,7 +14,7 @@ These acceptable use criteria were developed at the Department of Radiology at W
 * [Sameer Malhotra]({{ "bios/Sameer_Malhotra_AUC_COI-BIO_Form.docx" | absolute_url }})
 * [Alvin Mushlin]({{ "bios/Alvin_Muslin_AUC_Conflict_of_interest_2017.docx" | absolute_url }})
 * [Amos Shemesh]({{ "bios/Amos_Shemesh_AUC_Conflict_of_interest_2017.docx" | absolute_url }})
-* [Peter Wyer]({{ "bios/Peter_Wyer_COI.docx | absolute_url }})
+* [Peter Wyer]({{ "bios/Peter_Wyer_COI.docx" | absolute_url }})
 * [Courtney Yeager]({{ "bios/Courtney_Yeager_AUC_COI-BIO_Form.docx" | absolute_url }})
 
 
