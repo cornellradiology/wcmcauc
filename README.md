@@ -18,4 +18,14 @@ These acceptable use criteria were developed at the Department of Radiology at W
 * [Courtney Yeager]({{ "bios/Courtney_Yeager_AUC_COI-BIO_Form.docx" | absolute_url }})
 
 
+<script type='text/javascript'>
+var links = document.links;
+
+for (var i = 0; i < links.length; i++) {
+  if (links[i].hostname != window.location.hostname) {
+    links[i].target = '_blank';
+  }
+}
+</script>
+
   [aucbackpain]: https://docs.google.com/spreadsheets/d/1fGB72y4sQ1a4cjbkFmkx7XH1p6dprUG_36_3hLZ-wOU/edit#gid=813947164
