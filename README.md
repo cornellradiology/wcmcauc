@@ -1,11 +1,12 @@
 
+
 These acceptable use criteria were developed at the Department of Radiology at Weill Cornell Medical College.
 
 
 
-The Department of Radiology at Weill Cornell Medicine, Weill-Cornell Imaging at NewYork-Presbyterian, and the Weill Cornell Physicians Organization is focused on providing the highest value and most effective diagnostic imaging for our patients.  Through the creation and incorporation of evidence based appropriateness criteria into our ordering and scheduling of imaging examinations we aim to provide each individual patient the right exam, optimized to the patient's individual condition, at the right time while eliminating examinations that are not needed or not optimal. 
+The Department of Radiology at Weill Cornell Medicine, Weill-Cornell Imaging at NewYork-Presbyterian, and the Weill Cornell Physicians Organization is focused on providing the highest value and most effective diagnostic imaging for our patients.  Through the creation and incorporation of evidence based appropriateness criteria into our ordering and scheduling of imaging examinations we aim to provide each individual patient the right exam, optimized to the patient's individual condition, at the right time while eliminating examinations that are not needed or not optimal.
 
-Weill Cornell faculty are leaders in the field of evidence-based imaging. We have participated in the Center for Medicare and Medicaid Services' Medicare Imaging Demonstration program (MID) that occurred between October 1, 2011 and September 30, 2013. Our faculty has been recognized through multiple peer-reviewed publications and invited lectures.   Weill Cornell continues to innovate in the creation of appropriate use criteria as well as the technology required to provide this information to patients and ordering providers. 
+Weill Cornell faculty are leaders in the field of evidence-based imaging. We have participated in the Center for Medicare and Medicaid Services' Medicare Imaging Demonstration program (MID) that occurred between October 1, 2011 and September 30, 2013. Our faculty has been recognized through multiple peer-reviewed publications and invited lectures.   Weill Cornell continues to innovate in the creation of appropriate use criteria as well as the technology required to provide this information to patients and ordering providers.
 
 In 2016, Weill Cornell was recognized as one of the first few practices in the nation to be recognized as a Qualified Provider Led Entity (QPLE) under the program set forth under the Protecting Access to Medicare Act of 2014 (PAMA 2014). This program enacted by Congress requires that healthcare providers who order specific types of diagnostic imaging to consult appropriate use criteria as part of the ordering process. As a QPLE, Weill Cornell is able to create, modify, and implement high quality criteria that reflect our  high standards of practice.   Weill Cornell appropriate use criteria will be used by many leading institutions across the country.
 
@@ -76,7 +77,7 @@ All members of the Weill Cornell Imaging Appropriate Use program are required to
 * Lacson R., Ip I., Hentel K., Malhotra S., Balthazar P., Langlotz C., Raja A. Khorasani R., **Medicare Imaging Demonstration: Assessing Attributes of Appropriate Use Criteria and Their Influence on Ordering Behavior.** [AJR Am J Roentgenol](https://www.ncbi.nlm.nih.gov/pubmed/28267371#). 2017 May;208(5):1051-1057. [doi: 10.2214/AJR.16.17169](https://doi.org/10.2214/AJR.16.17169). Epub 2017 Mar 7.
 * Ip I.K., Lacson R., Hentel K., Malhotra S., Darer J., Langlotz C., Weiss J., Raja A.S., Khorasani R., **JOURNAL CLUB: Predictors of Provider Response to Clinical Decision Support: Lessons Learned From the Medicare Imaging Demonstration.**  [AJR Am J Roentgenol](https://www.ncbi.nlm.nih.gov/pubmed/27897445#). 2017 Feb;208(2):351-357. [doi: 10.2214/AJR.16.16373](https://doi.org/10.2214/AJR.16.16373). Epub 2016 Nov 29.
 * Khorasani R., Hentel K., Darer J., Langlotz C., Ip I.K., Manaker S., Cardella J., Min R., Seltzer S., **Ten commandments for effective clinical decision support for imaging: enabling evidence-based practice to improve quality and reduce waste.** [AJR Am J Roentgenol](https://www.ncbi.nlm.nih.gov/pubmed/25341131#). 2014 Nov;203(5):945-51. [doi: 10.2214/AJR.14.13134](https://doi.org/10.2214/AJR.14.13134).
- 
+
 
 <script type='text/javascript'>
 var links = document.links;
