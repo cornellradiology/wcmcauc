@@ -1,8 +1,6 @@
 
 
-These acceptable use criteria were developed at the Department of Radiology at Weill Cornell Medical College.
-
-
+These appropriate use criteria were developed at the Department of Radiology at Weill Cornell Medical College.
 
 The Department of Radiology at Weill Cornell Medicine, Weill-Cornell Imaging at NewYork-Presbyterian, and the Weill Cornell Physicians Organization is focused on providing the highest value and most effective diagnostic imaging for our patients.  Through the creation and incorporation of evidence based appropriateness criteria into our ordering and scheduling of imaging examinations we aim to provide each individual patient the right exam, optimized to the patient's individual condition, at the right time while eliminating examinations that are not needed or not optimal.
 
