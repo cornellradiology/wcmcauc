@@ -8,6 +8,49 @@
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+     <script src="{{ '/assets/js/jquery1.7.2.min.js' | relative_url }}"></script>
+ <!--   <script src="{{ '/assets/js/jqueryui.1.10.2.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/wcmc_header_stuff.js' | relative_url }}"></script>
+-->
+<style>
+@media (max-width:767px) {
+ul.menu-sm, ul.menu-sm li, ul.menu-sm li a {
+ font-size:16px;
+ font-family: "1898Sans-Bold",sans-serif;
+ color: #b31b1b;
+}
+ul.menu-sm li, ul.menu-sm li:hover {
+ padding: 5px;
+ border-bottom: 1px solid #b31b1b;
+}
+ul.menu-sm li.no-border {
+  border-bottom:none!important;
+  padding:10px;
+}
+ul.menu-sm:hover, ul.menu-sm li:hover, ul.menu-sm li a:hover {
+ font-size:16px;
+ font-family: "1898Sans-Bold",sans-serif;
+ color: #e7751d;
+ text-decoration: underline;
+}
+}
+
+</style>
+<script>
+jQuery(document).ready(function() {
+   jQuery('div.menu-button').click(function() {
+    if(jQuery(this).hasClass('is-expanded')) {
+      jQuery(this).removeClass('is-expanded');
+      jQuery('ul.navbar-nav.global-links').addClass('hidden-xs').removeClass('menu-sm');
+      console.log('menu unclicked');
+    } else {
+      jQuery(this).addClass('is-expanded');
+      jQuery('ul.navbar-nav.global-links').removeClass('hidden-xs').addClass('menu-sm');
+      console.log('menu clicked');
+   }
+  });
+});
+</script>
   </head>
   <body>
 
@@ -22,6 +65,7 @@
       </div>
       <div class="menu-button">Menu</div>
       <ul class="nav navbar-nav navbar-right global-links hidden-xs">
+<li class='no-border'></li>
   <li><a href="auc.html" >Appropriate Use Criteria</a></li>
   <li><a href="bios.html" >Biographies</a></li>
   <li><a href="members.html" >Members</a></li>
