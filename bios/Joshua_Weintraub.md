@@ -2,9 +2,9 @@
 
 ## Title(s)
 
-Executive Vice Chairman of the Department of Radiology 
+Executive Vice Chairman of the Department of Radiology at Columbia University
 
-Director of Vascular and Interventional Radiology
+Director of Vascular and Interventional Radiology at Columbia University
 
 Chair of the Joint Radiation Safety Committee of Columbia University, NY Presbyterian Hospital and NY Psychiatric Institute
 
@@ -22,4 +22,3 @@ thrombolysis in addition to several US multi-institutional studies in the field 
 Society of Interventional Radiology and a member of the Radiology Society of North America (RSNA), the American Roentgen Ray Society, 
 and the American College of Radiology. Currently in my role as Executive Vice Chairman, I am actively involved in operations and 
 integration of information technology into the radiology department.
-
