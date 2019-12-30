@@ -24,12 +24,14 @@ ul.menu-sm li, ul.menu-sm li:hover {
  padding: 5px;
  border-bottom: 1px solid #b31b1b;
 }
+ul.menu-sm li.no-border {
+  border-bottom:none!important;
+  padding:10px;
+}
 ul.menu-sm:hover, ul.menu-sm li:hover, ul.menu-sm li a:hover {
  font-size:16px;
  font-family: "1898Sans-Bold",sans-serif;
  color: #e7751d;
-}
-ul.menu-sm li a:hover {
  text-decoration: underline;
 }
 }
@@ -64,11 +66,12 @@ jQuery(document).ready(function() {
       </div>
       <div class="menu-button">Menu</div>
       <ul class="nav navbar-nav navbar-right global-links hidden-xs">
-  <li><a href="auc.html" >Appropriate Use Criteria</a></li>
-  <li><a href="leadership.html" >Leadership</a></li>
-  <li><a href="members.html" >Members</a></li>
-  <li><a href="references.html" >References</a></li>
-  <li class="global-links__wcm"><a href="http://weill.cornell.edu/" target="_blank" class="external-link">WCM</a></li>
+<li class='no-border'></li>
+<li><a href="{{ "/auc.html" | absolute_url }}" >Appropriate Use Criteria</a></li>
+<li><a href="{{ "/leadership.html" | absolute_url }}" >Leadership</a></li>
+<li><a href="{{ "/members.html" | absolute_url }}" >Members</a></li>
+<li><a href="{{ "/references.html" | absolute_url }}" >References</a></li>
+  <li class="global-links__wcm"><a href="http://weill.cornell.edu/" target="_blank" class="external-link">WCMC</a></li>
   <li class="global-links__wcm"><a href="http://radiology.weill.cornell.edu/" target="_blank" class="external-link">Radiology</a></li>
 <!--  <li class="search-toggle">
     <span class="search-toggle-button search-toggle-button--find"><svg class="cta-icon cta-icon-search"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/profiles/wcmc/themes/wcmc_bootstrap/images/cta_icons/symbol-defs.svg#cta-icon-search"></use></svg></span>
