@@ -12,7 +12,7 @@ All members of the Weill Cornell Imaging Appropriate Use program are required to
 * [Thomas Jessen]({{ "bios/Thomas_Jessen.html" | absolute_url }})
 * Jessica Rotman
 * George Shih
-* Joshua Weintraub
+* [Joshua Weintraub]({{ "bios/Joshua_Weintraub.html" | absolute_url }})
 * Ramin Khorasani
 * Ali Raja
 
