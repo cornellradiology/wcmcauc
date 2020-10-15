@@ -18,7 +18,7 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 
 ### [Hip Pain][hippain]
 
-<object width="80%" height="900" data="auc_files/WCM_-_Hip_Pain_AUC_v6.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_Hip_Pain_AUC_v9.pdf"></object>
 
 [Download PDF][hippain]
 
@@ -65,7 +65,7 @@ for (var i = 0; i < links.length; i++) {
 
   [aucbackpain]: https://docs.google.com/spreadsheets/d/1fGB72y4sQ1a4cjbkFmkx7XH1p6dprUG_36_3hLZ-wOU/edit#gid=813947164
   [headache]: /auc_files/WCM_-_Headache__AUC_v9.pdf
-  [hippain]: /auc_files/WCM_-_Hip_Pain_AUC_v6.pdf
+  [hippain]: /auc_files/WCM_-_Hip_Pain_AUC_v9.pdf
   [lowerbackpain]: /auc_files/WCM_-_LBP_AUC_v11_Download_Final_9-16.pdf
   [lungcancerscreening]: /auc_files/WCM_-_LCS_AUC_v8.pdf
   [neckpain]: /auc_files/WCM_-_Neck_Pain_AUC_v4.pdf
