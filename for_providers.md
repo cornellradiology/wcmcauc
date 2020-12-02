@@ -39,7 +39,7 @@ Weill Cornell has partnered with the Harvard Library of Evidence to assist us wi
 
 Weill Cornell AUC are intended to be guidelines and do not apply to every individual patient or patient presentation. They are not considered to be a substitute for your experience or knowledge of your patients.
 
-Providers will not be penalized for specific cases that do not agree with the recommendations provided by our AUC. In the future, CMS may look at providers who are true outliers in regard to appropriateness of imaging
+Providers will not be penalized for specific cases that do not agree with the recommendations provided by our AUC. In the future, CMS may look at providers who are true outliers in regard to appropriateness of imaging.
 
 If your patients have questions about the AUC program, patient information including Frequently Asked Questions is available on our [For Patients page](./for_patients.html).
 
