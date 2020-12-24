@@ -1,63 +1,149 @@
-## Subspecialty Panel Members (with area of expertise)
+## Subspecialty Panels
 
-Our panels are comprised of experts from Weill Cornell Medicine and our partners at Columbia Doctors and New York-Presbyterian Hospital.
+WCPO AUC subspecialty panels are comprised of experts from Weill Cornell Medicine and our partners at Columbia Physicians & Surgeons (Columbia P&S), Hospital for Specialty Surgery (HSS) and New York-Presbyterian Hospital (NYPH).
 
+Panelists are listed by panel with areas of expertise and affiliation.
 
-### Emergency
-* [Brenna Farmer, Emergency Medicine](https://weillcornell.org/bmfarmer) <sup>1</sup>
-* [Keith Hentel, Imaging](https://weillcornell.org/khentel) <sup>1</sup>
-* [Jacob Kazam, Imaging](https://weillcornell.org/j-jacob-kazam-md) <sup>1</sup>
-* [Richard Lappin, Emergency Medicine](https://weillcornell.org/rilappin) <sup>1</sup>
-* [Phillip Perera, Emergency Medicine](http://vivo.med.cornell.edu/display/cwid-pererap) <sup>1</sup>
-* [Jessica Rotman, Imaging](https://weillcornell.org/jessica-rotman-md) <sup>1</sup>
-* [Rahul Sharma, Emergency Medicine](https://weillcornell.org/rsharma) <sup>1</sup>
-* [Amos Shemesh, Emergency Medicine](https://weillcornell.org/amos-shemesh-md) <sup>1</sup>
-* [Joseph Underwood, Emergency Medicine](https://www.nyp.org/physician/junderwood) <sup>1</sup>
-* [Peter Wyer, Emergency Medicine](https://www.emergencymedicine.columbia.edu/profile/peter-c-wyer-md) <sup>1</sup>
-* [Richard Trepp, Emergency Medicine](https://www.columbiadoctors.org/richard-c-trepp-md) <sup>1</sup>
+### Hip Pain Panel
 
-### Internal Medicine
-* [Sameer Malhotra, Internal Medicine](https://weillcornell.org/smalhotra) <sup>1</sup>
-* [Alvin Mushlin, Internal Medicine](https://weillcornell.org/amushlin) <sup>1</sup>
+* Alfred Gellhorn, MD, Physical Medicine & Rehabilitation, WCPO
+* Jacob Kazam, MD, ED & MSK Radiology, WCPO
+* Jonathan Kazam, MD, ED & MSK Radiology, Columbia P&S
+* Dean Lorich, MD, Orthopedics, HSS
+* Keith Hentel, MS MD, ED & MSK Radiology, Informatics, WCPO
+* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
+* Jessica Rotman, MD, ED & MSK Radiology, WCPO
+* George Shih, MD, MS, Informatics, WCPO
+* Joshua Weintraub, MD, Imaging Guided Interventions, Columbia P&S
 
-### Musculoskeletal
-* [Alfred Gellhorn - Physical and Rehabilitation Medicine](https://weillcornell.org/acgellhorn) <sup>1</sup>
-* [Jacob Kazam, Imaging](https://weillcornell.org/j-jacob-kazam-md) <sup>1</sup>
-* [Jonathan Kazam, Imaging](https://www.nyp.org/physician/jkazam) <sup>1</sup>
-* [Dean Lorich, Orthopedics](http://vivo.med.cornell.edu/display/person656074) <sup>1</sup>
-* [Doug Mintz, Musculoskeletal Imaging](https://www.hss.edu/physicians_mintz-douglas.asp) <sup>1</sup>
-* [Jessica Rotman, Imaging](https://weillcornell.org/jessica-rotman-md) <sup>1</sup>
+#### Additional Contributors
 
-### Neurosciences
-* [Louise Klebanoff, Neurology](https://weillcornell.org/lklebanoff) <sup>1</sup>
-* [Joshua Lantos, Neuroimaging](https://weillcornell.org/jlantos) <sup>1</sup>
-* [Richard Lappin, Emergency Medicine](https://weillcornell.org/rilappin) <sup>1</sup>
-* [Laura Lennihan, Neurology](https://www.columbiadoctors.org/laura-lennihan-md) <sup>1</sup>
-* [Angela Lignelli, Neuroimaging](https://www.columbiadoctors.org/angela-lignelli-md) <sup>1</sup>
+* Thomas Jessen, JD, Informatics, WCPO
+* Courtney Yeager, MS, Imaging, WCPO
 
-### Thoracic
-* Ian Drexler, Thoracic <sup>1</sup>
-* [James Gruden, Thoracic](https://weillcornell.org/jfgruden) <sup>1</sup>
-* [Bradley Pua, Imaging / Intervention](https://weillcornell.org/bpua) <sup>1</sup>
-* [Joshua Weintraub, Imaging / Intervention](https://www.columbiadoctors.org/joshua-l-weintraub-md) <sup>1</sup>
+### Shoulder Pain Panel
 
-### Information/Clinical Sciences
-* [Gary Dorfman, Research / Clinical Trials](http://vivo.med.cornell.edu/display/cwid-gsd2005) <sup>1</sup>
-* [Alvin Mushlin, Research / Clinical Trials / Public Health](https://weillcornell.org/amushlin) <sup>1</sup>
-* [Sameer Malhotra, Informatics](https://weillcornell.org/smalhotra) <sup>1</sup>
-* [George Shih, Informatics](https://weillcornell.org/gshih) <sup>1</sup>
-* [Chandan Prithani, Information Technology](https://www.linkedin.com/in/chandan-prithiani-a68b434) <sup>1</sup>
+* Alfred Gellhorn, MD, Physical Medicine & Rehabilitation, WCPO
+* Jacob Kazam, ED & MSK Radiology, WCPO
+* Jonathan Kazam, MD, ED & MSK Radiology, Columbia P&S
+* Dean Lorich, MD, Orthopedics, HSS
+* Keith Hentel, MD, MS, ED & MSK Radiology, Informatics, WCPO
+* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
+* Jessica Rotman, MD, ED & MSK Radiology, WCPO
+* George Shih MD, MS, Informatics, WCPO
+* Joshua Weintraub, MD, Imaging Guided Interventions, Columbia P&S
 
-<!-- * [Natasha Desai, Emergency/Sports Medicine](http://vesta.cumc.columbia.edu/ortho/facdb/profile/profile.php?id=nd2498) <sup>1</sup>
-* [Biren Bhatt, Emergency Medicine](https://www.nyp.org/physician/babhatt) <sup>1</sup>
-* [Fereshteh Sani, Emergency Medicine](https://www.nyp.org/physician/fsani) <sup>1</sup> -->
-<!-- * [Andrew Einstein, Cardiac Imaging](https://www.nyp.org/physician/ajeinstein) <sup>1</sup>
-* [James Min, Cardiac Imaging](http://vivo.med.cornell.edu/display/cwid-jkm2001) <sup>1</sup>
-* [Jonathan Weinsaft, Cardiac Imaging](http://vivo.med.cornell.edu/display/cwid-jww2001) <sup>1</sup>
-* [Quynh Truong, Cardiac Imaging](http://vivo.med.cornell.edu/display/cwid-qat9001) <sup>1</sup>
-* [Robert Kim, Cardiology](https://weillcornell.org/robertjkim) <sup>1</sup> -->
+#### Additional Contributors
 
-<sup>1</sup> No Conflicts of Interest Reported.
+* Thomas Jessen, JD, Informatics, WCPO
+* Courtney Yeager, MS, Imaging, WCPO
+
+### Headache Panel
+
+* Keith Hentel, MD, MS, ED & MSK Radiology, Informatics, WCPO
+* Louise Klebanoff, MD, Neurology, WCPO
+* Richard Lappin, MD, Emergency Medicine, WCPO
+* Angela Lignelli, MD, Neuroimaging, Columbia P&S
+* Joshua Lantos, MD, Neuroimaging, WCPO
+* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
+* Alvin Mushlin, MD, Public Health/Population Health, WCPO
+* Jessica Rotman, MD, ED & MSK Radiology, WCPO
+* Rahul Sharma, MD, MBA, Emergency Medicine, WCPO
+* George Shih MD, MS, Informatics, WCPO
+* Joseph Underwood, MD, Emergency Medicine, Columbia P&S
+* Joshua Weintraub, MD, Imaging Guided Interventions, Columbia P&S
+* Peter Wyer, MD, Emergency Medicine, Columbia P&S
+
+#### Additional Contributors
+
+* Thomas Jessen, JD, Informatics, WCPO
+* Courtney Yeager, MS, Imaging, WCPO
+
+### Neck Pain Panel
+
+* Brenna Farmer, MD, Emergency Medicine, WCPO
+* Keith Hentel, MD, MS, ED & MSK Radiology, Informatics WCPO
+* Jacob Kazam, MD, ED & MSK Radiology, WCPO
+* Louise Klebanoff, MD, Neurology, WCPO
+* Richard Lappin, MD, Emergency Medicine, WCPO
+* Angela Lignelli, MD, Neuroimaging, Columbia P&S
+* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
+* Joshua Lantos, MD, Neuroimaging, WCPO
+* Alvin Mushlin, MD, Public Health/Population Health, WCPO
+* Jessica Rotman, MD, ED & MSK Radiology, WCPO
+* Rahul Sharma, MD, MBA, Emergency Medicine, WCPO
+* George Shih MD, MS Informatics, WCPO
+* Joseph Underwood, MD, Emergency Medicine, Columbia P&S
+* Joshua Weintraub, MD, Imaging Guided Interventions, Columbia P&S
+* Peter Wyer, MD, Emergency Medicine, Columbia P&S
+
+#### Additional Contributors
+
+* Thomas Jessen, JD, Informatics, WCPO
+* Courtney Yeager, MS, Imaging, WCPO
+
+### Lung Cancer Panel
+
+* Ian Drexler, MD Thoracic Imaging, WCPO
+* James Gruden Thoracic Imaging, WCPO
+* Keith Hentel, MD, MS, ED & MSK Radiology, Informatics WCPO
+* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
+* Bradley Pua, MD, Lung Cancer Imaging & Treatment, WCPO
+* Jessica Rotman, MD, ED & MSK Radiology, WCPO
+* George Shih MD, MS Informatics, WCPO
+* Joshua Weintraub, MD, Imaging Guided Interventions, Columbia P&S
+
+#### Additional Contributors
+
+* Thomas Jessen, JD, Informatics, WCPO
+* Courtney Yeager, MS, Imaging WCPO
+
+### Suspected Pulmonary Embolism Panel
+
+* Keith Hentel, MD, MS, ED & MSK Radiology, Informatics WCPO
+* Alvin Mushlin, MD, ScM, Public Health/Population Health, WCPO
+* Rahul Sharma, MD MBA, Emergency Medicine, WCPO
+* Ralph Slepian, MD, Anesthesia/CMO, WCPO
+* Jessica Rotman, MD, ED & MSK Radiology, WCPO
+* George Shih MD, MS Informatics, WCPO
+* Joseph Underwood, MD, Emergency Medicine, Columbia P&S
+* Joshua Weintraub, MD, Imaging Guided Interventions, Columbia P&S
+* Peter Wyer, MD, Emergency Medicine, Columbia P&S
+
+#### Additional Contributors
+
+* Thomas Jessen, JD, Informatics WCPO
+* Courtney Yeager, MS, Imaging WCPO
+
+### Low Back Pain
+
+* Keith Hentel, MD, MS, ED & MSK Radiology, Informatics WCPO
+* Jacob Kazam, MD, ED & MSK Radiology, WCPO
+* Louise Klebanoff, MD, Neurology, WCPO
+* Richard Lappin, MD, Emergency Medicine, WCPO
+* Angela Lignelli, MD, Neuroimaging, Columbia P&S
+* Sameer Malhotra, MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
+* Rahul Sharma, MD, MBA, Emergency Medicine, WCPO
+* Jessica Rotman, MD, ED & MSK Radiology, WCPO
+* Ralph Selepian, MD, Anesthesia/CMO, WCPO
+* George Shih MD, MS Informatics, WCPO
+* Joshua Weintraub, MD, Imaging Guided Interventions, Columbia P&S
+
+#### Additional Contributors
+
+* Thomas Jessen, JD, Informatics WCPO
+* Courtney Yeager, MS, Imaging WCPO
+
+WCPO would like to acknowledge the contributions to our AUC from our clinical users and the Image Learning Network (ILN).
+
+## Conflict of Interest Policy
+
+The WCPO follows Conflict of Interest (COI) process for each member of our AUC panels and leadership teams, each member is periodically sent an electronic COI form, WCPO maintains a record of panelists’ COI responses. If a panelist has a conflict that member is expected to recuse themselves from any development or recommendations specific to an AUC.
+
+A Conflict of Interest is defined as any actual or potential compensation and/or financial/other tangible benefits related to the AUC or the domain of the AUC for the individual or the individual’s family relatives. Relatives is further defined as “spouse, domestic partner, ancestors, brothers and sisters (whereby whole or half-blood), children (whether natural or adopted), grandchildren, great-grandchildren, and the spouses of brothers, sisters, children, grandchildren and great-grandchildren.” This COI is in accordance with our institutional compliance policy. Contact tsj9003@med.cornell.edu for information on Conflicts of Interest.
+
+No Conflicts of Interest Reported.
+
 
 <script type='text/javascript'>
 var links = document.links;
