@@ -24,25 +24,25 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 
 ### [Lower Back Pain][lowerbackpain]
 
-<object width="80%" height="900" data="auc_files/WCM_-_LBP_AUC_v11_Download_Final_9-16.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_LBP_AUC_v16.pdf"></object>
 
 [Download PDF][lowerbackpain]
 
 ### [Lung Cancer Screening][lungcancerscreening]
 
-<object width="80%" height="900" data="auc_files/WCM_-_LCS_AUC_v8.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_Lung_Cancer_Screening_AUC_v10.pdf"></object>
 
 [Download PDF][lungcancerscreening]
 
 ### [Neck Pain][neckpain]
 
-<object width="80%" height="900" data="auc_files/WCM_-_Neck_Pain_AUC_v4.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_Neck_Pain_AUC_v9.pdf"></object>
 
 [Download PDF][neckpain]
 
 ### [Pulmonary Embolism][pe]
 
-<object width="80%" height="900" data="auc_files/WCM_-_PE_AUC_Download_v5_Final_9-15.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_PE_AUC_AUC_v9.pdf"></object>
 
 [Download PDF][pe]
 
@@ -52,6 +52,8 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 
 [Download PDF][shoulder]
 
+
+Previous versions of these AUCs are available at [our github page](https://github.com/cornellradiology/wcmcauc/tree/master/auc_files).
 
 <script type='text/javascript'>
 var links = document.links;
@@ -66,8 +68,8 @@ for (var i = 0; i < links.length; i++) {
   [aucbackpain]: https://docs.google.com/spreadsheets/d/1fGB72y4sQ1a4cjbkFmkx7XH1p6dprUG_36_3hLZ-wOU/edit#gid=813947164
   [headache]: /auc_files/WCM_-_Headache__AUC_v9.pdf
   [hippain]: /auc_files/WCM_-_Hip_Pain_AUC_v9.pdf
-  [lowerbackpain]: /auc_files/WCM_-_LBP_AUC_v11_Download_Final_9-16.pdf
-  [lungcancerscreening]: /auc_files/WCM_-_LCS_AUC_v8.pdf
-  [neckpain]: /auc_files/WCM_-_Neck_Pain_AUC_v4.pdf
-  [pe]: /auc_files/WCM_-_PE_AUC_Download_v5_Final_9-15.pdf
+  [lowerbackpain]: /auc_files/WCM_-_LBP_AUC_v16.pdf
+  [lungcancerscreening]: /auc_files/WCM_-_Lung_Cancer_Screening_AUC_v10.pdf
+  [neckpain]: /auc_files/WCM_-_Neck_Pain_AUC_v9.pdf
+  [pe]: /auc_files/WCM_-_PE_AUC_v9.pdf
   [shoulder]: /auc_files/WCM_-_Shoulder_Pain_AUC_v10.pdf
