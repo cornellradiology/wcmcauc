@@ -42,7 +42,7 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 
 ### [Pulmonary Embolism][pe]
 
-<object width="80%" height="900" data="auc_files/WCM_-_PE_AUC_AUC_v9.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_PE_AUC_v9.pdf"></object>
 
 [Download PDF][pe]
 
