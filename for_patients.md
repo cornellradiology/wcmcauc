@@ -20,6 +20,7 @@ For the CMS AUC program, Weill Cornell has created [criteria for imaging](./auc.
 * Suspected Pulmonary Embolism
 * Shoulder Pain
 * Hip Pain
+* Low Back Pain
 
 ### Frequently Asked Questions (FAQs)
 
