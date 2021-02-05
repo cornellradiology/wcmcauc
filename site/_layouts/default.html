@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+     <script src="{{ '/assets/js/jquery1.7.2.min.js' | relative_url }}"></script>
+ <!--   <script src="{{ '/assets/js/jqueryui.1.10.2.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/wcmc_header_stuff.js' | relative_url }}"></script>
+-->
+<style>
+@media (max-width:767px) {
+ul.menu-sm, ul.menu-sm li, ul.menu-sm li a, ul.menu-sm li a:visited {
+ clear:left;
+ font-size:16px;
+ font-family: "1898Sans-Bold",sans-serif;
+ color: #b31b1b;
+}
+ul.menu-sm li, ul.menu-sm li:hover {
+ padding: 5px;
+ border-bottom: 1px solid #b31b1b;
+}
+ul.menu-sm li.no-border {
+  border-bottom:none!important;
+  padding:10px;
+}
+ul.menu-sm:hover, ul.menu-sm li:hover, ul.menu-sm li a:hover {
+ font-size:16px;
+ font-family: "1898Sans-Bold",sans-serif;
+ color: #e7751d;
+ text-decoration: underline;
+}
+}
+
+</style>
+<script>
+jQuery(document).ready(function() {
+   jQuery('div.menu-button').click(function() {
+    if(jQuery(this).hasClass('is-expanded')) {
+      jQuery(this).removeClass('is-expanded');
+      jQuery('ul.navbar-nav.global-links').addClass('hidden-xs').removeClass('menu-sm');
+      console.log('menu unclicked');
+    } else {
+      jQuery(this).addClass('is-expanded');
+      jQuery('ul.navbar-nav.global-links').removeClass('hidden-xs').addClass('menu-sm');
+      console.log('menu clicked');
+   }
+  });
+});
+</script>
+  </head>
+  <body>
+
+
+<header class="brand">
+  <div class="brand__nav">
+    <div class="container">
+      <div class="brand__logo">
+        <a class="text-hide" href="/" title="Home" rel="home">
+          Weill Cornell Medicine
+        </a>
+      </div>
+      <div class="menu-button">Menu</div>
+      <ul class="nav navbar-nav navbar-right global-links hidden-xs">
+<li class='no-border'></li>
+<li><a href="{{ "/auc.html" | absolute_url }}" >Appropriate Use Criteria</a></li>
+<li><a href="{{ "/leadership.html" | absolute_url }}" >Leadership</a></li>
+<li><a href="{{ "/members.html" | absolute_url }}" >Members</a></li>
+<li><a href="{{ "/for_patients.html" | absolute_url }}" >For Patients</a></li>
+<li><a href="{{ "/for_providers.html" | absolute_url }}" >For Providers</a></li>
+<li><a href="{{ "/references.html" | absolute_url }}" >References</a></li>
+  <li class="global-links__wcm"><a href="https://weill.cornell.edu/" target="_blank" class="external-link">WCM</a></li>
+  <li class="global-links__wcm"><a href="https://radiology.weill.cornell.edu/" target="_blank" class="external-link">Radiology</a></li>
+<!--  <li class="search-toggle">
+    <span class="search-toggle-button search-toggle-button--find"><svg class="cta-icon cta-icon-search"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/profiles/wcmc/themes/wcmc_bootstrap/images/cta_icons/symbol-defs.svg#cta-icon-search"></use></svg></span>
+    <span class="search-toggle-button search-toggle-button--close"><svg class="cta-icon cta-icon-close"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/profiles/wcmc/themes/wcmc_bootstrap/images/cta_icons/symbol-defs.svg#cta-icon-close"></use></svg></span>
+  </li> -->
+</ul>
+    </div>
+  </div>
+    <!-- No Alt -->
+    <div class="brand__lockup hidden-xs">
+      <div class="container">
+                  <a href="/"><img src="https://radiology.weill.cornell.edu/sites/all/themes/wcm_radiology_subtheme/logo.png" alt="Department of Radiology"></a>
+              </div>
+    </div>
+  </header>
+
+    <div class='container'>
+      {{ content }}
+
+      <footer class="site-footer">
+        <small><span class="site-footer-credits">This page is hosted with <a href="https://pages.github.com">GitHub Pages</a>.</span></small>
+      </footer>
+    </div>
+  </body>
+</html>
