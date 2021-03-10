@@ -8,7 +8,7 @@ Panelists are listed by panel with areas of expertise and affiliation.
 
 * Alfred Gellhorn, MD, Physical Medicine & Rehabilitation, WCPO
 * Jacob Kazam, MD, ED & MSK Radiology, WCPO
-* Jonathan Kazam, MD, ED & MSK Radiology, Columbia P&S
+* Jonathan Kazam, MD, ED & MSK Radiology, WCPO
 * Dean Lorich, MD, Orthopedics, HSS
 * Keith Hentel, MS MD, ED & MSK Radiology, Informatics, WCPO
 * Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO

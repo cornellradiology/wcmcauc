@@ -32,7 +32,7 @@ In addition to the above, the oversight committee is comprised of the following 
   - Chief of Clinical Neurology
 * [Alvin Mushlin, MD ScM]({{ "bios/Alvin_Mushlin.html" | absolute_url }})
   - Professor of Healthcare Policy and Research, and of Medicine, WCPO
-  - Ali Raja, MD MBA MPH
+* Ali Raja, MD MBA MPH
   - Executive Vice Chairman, Department of Emergency Medicine, Massachusetts General Hospital
   - Executive Director, Harvard Medical School Library of Evidence (HMSLOE)
 * [Jessica Rotman, MD]({{ "bios/Jessica_Rotman.html" | absolute_url }})
