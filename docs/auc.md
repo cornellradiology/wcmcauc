@@ -30,7 +30,11 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 
 ### [Lung Cancer Screening][lungcancerscreening]
 
+<<<<<<< HEAD
 <object width="80%" height="900" data="auc_files/WCM_-_Lung_Cancer_Screening_AUC_v12.pdf"></object>
+=======
+<object width="80%" height="900" data="auc_files/WCM_-_Lung_Cancer_Screening_AUC_v10.pdf"></object>
+>>>>>>> 011fdc26daca809656fbc1cabb0057adb9e6b966
 
 [Download PDF][lungcancerscreening]
 
