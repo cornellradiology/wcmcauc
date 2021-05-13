@@ -20,7 +20,7 @@ If no evidence is available and the AUC is based on local expertise/best practic
 
 This review of the evidence is available on the AUC source documentation.
 
-Implementation
+## Implementation
 
 Our AUC are translated into digital logic and implemented by vendors with Qualified Decision Support Mechanisms (QDSMs) who have licensed our criteria.
 
