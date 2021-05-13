@@ -26,7 +26,7 @@ This review of the evidence is available on the AUC source documentation.
 
 ## Review of AUC
 
-Once published, or AUC are reviewed by the appropriate panel at a minimum frequency of once annually. This includes identification of any additions to the literature as well as feedback from practices that have implemented our criteria.
+Once published, our AUC are reviewed by the appropriate panel at a minimum frequency of once annually. This includes identification of any additions to the literature as well as feedback from practices that have implemented our criteria.
 
 [Current versions of the AUC](./auc.html) are available on our website and contain scoring of the references/evidence, the [members of the panels](./members.html) who have contributed to the AUC, and any potential conflicts of interest that may exist.
 
