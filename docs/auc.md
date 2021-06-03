@@ -48,7 +48,7 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 
 ### [Shoulder Pain][shoulder]
 
-<object width="80%" height="900" data="auc_files/WCM_-_Shoulder_Pain_AUC_v10.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_Shoulder_Pain_AUC_v11.pdf"></object>
 
 [Download PDF][shoulder]
 
@@ -67,9 +67,9 @@ for (var i = 0; i < links.length; i++) {
 
   [aucbackpain]: https://docs.google.com/spreadsheets/d/1fGB72y4sQ1a4cjbkFmkx7XH1p6dprUG_36_3hLZ-wOU/edit#gid=813947164
   [headache]: /auc_files/WCM_-_Headache_AUC_v11.pdf
-  [hippain]: /auc_files/WCM_-_Hip_Pain_AUC_v9.pdf
+  [hippain]: /auc_files/WCM_-_Hip_Pain_AUC_v10.pdf
   [lowerbackpain]: /auc_files/WCM_-_LBP_AUC_v16.pdf
   [lungcancerscreening]: /auc_files/WCM_-_Lung_Cancer_Screening_AUC_v12.pdf
   [neckpain]: /auc_files/WCM_-_Neck_Pain_AUC_v9.pdf
   [pe]: /auc_files/WCM_-_PE_AUC_v9.pdf
-  [shoulder]: /auc_files/WCM_-_Shoulder_Pain_AUC_v10.pdf
+  [shoulder]: /auc_files/WCM_-_Shoulder_Pain_AUC_v11.pdf
