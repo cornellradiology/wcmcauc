@@ -5,7 +5,7 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 * [Headache](#headache)
 * [Hip Pain](#hip-pain)
 * [Lower Back Pain](#lower-back-pain)
-* [Lung Cancer Screening](#lung-cancer-screening)
+* [Lung Cancer](#lung-cancer)
 * [Neck Pain](#neck-pain)
 * [Pulmonary Embolism](#pulmonary-embolism)
 * [Shoulder Pain](#shoulder-pain)
@@ -18,7 +18,7 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 
 ### [Hip Pain][hippain]
 
-<object width="80%" height="900" data="auc_files/WCM_-_Hip_Pain_AUC_v9.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_Hip_Pain_AUC_v10.pdf"></object>
 
 [Download PDF][hippain]
 
@@ -28,11 +28,11 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 
 [Download PDF][lowerbackpain]
 
-### [Lung Cancer Screening][lungcancerscreening]
+### [Lung Cancer][lungcancer]
 
-<object width="80%" height="900" data="auc_files/WCM_-_Lung_Cancer_Screening_AUC_v12.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_Lung_Cancer_AUC_v12.pdf"></object>
 
-[Download PDF][lungcancerscreening]
+[Download PDF][lungcancer]
 
 ### [Neck Pain][neckpain]
 
@@ -69,7 +69,7 @@ for (var i = 0; i < links.length; i++) {
   [headache]: /auc_files/WCM_-_Headache_AUC_v11.pdf
   [hippain]: /auc_files/WCM_-_Hip_Pain_AUC_v10.pdf
   [lowerbackpain]: /auc_files/WCM_-_LBP_AUC_v16.pdf
-  [lungcancerscreening]: /auc_files/WCM_-_Lung_Cancer_Screening_AUC_v12.pdf
+  [lungcancer]: /auc_files/WCM_-_Lung_Cancer_AUC_v12.pdf
   [neckpain]: /auc_files/WCM_-_Neck_Pain_AUC_v9.pdf
   [pe]: /auc_files/WCM_-_PE_AUC_v9.pdf
   [shoulder]: /auc_files/WCM_-_Shoulder_Pain_AUC_v11.pdf
