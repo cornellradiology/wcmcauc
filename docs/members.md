@@ -6,12 +6,12 @@ Panelists are listed by panel with areas of expertise and affiliation.
 
 ### Hip Pain Panel
 
+* Jonathan Elias, MD, Information Services, Pediatrics & Population Health Sciences, WCPO
 * Alfred Gellhorn, MD, Physical Medicine & Rehabilitation, WCPO
 * Jacob Kazam, MD, ED & MSK Radiology, WCPO
 * Jonathan Kazam, MD, ED & MSK Radiology, WCPO
 * Dean Lorich, MD, Orthopedics, HSS
 * Keith Hentel, MS MD, ED & MSK Radiology, Informatics, WCPO
-* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
 * Jessica Rotman, MD, ED & MSK Radiology, WCPO
 * George Shih, MD, MS, Informatics, WCPO
 * Joshua Weintraub, MD, Imaging Guided Interventions, Columbia P&S
@@ -23,12 +23,12 @@ Panelists are listed by panel with areas of expertise and affiliation.
 
 ### Shoulder Pain Panel
 
+* Jonathan Elias, MD, Information Services, Pediatrics & Population Health Sciences, WCPO
 * Alfred Gellhorn, MD, Physical Medicine & Rehabilitation, WCPO
 * Jacob Kazam, ED & MSK Radiology, WCPO
 * Jonathan Kazam, MD, ED & MSK Radiology, Columbia P&S
 * Dean Lorich, MD, Orthopedics, HSS
 * Keith Hentel, MD, MS, ED & MSK Radiology, Informatics, WCPO
-* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
 * Jessica Rotman, MD, ED & MSK Radiology, WCPO
 * George Shih MD, MS, Informatics, WCPO
 * Joshua Weintraub, MD, Imaging Guided Interventions, Columbia P&S
@@ -40,12 +40,12 @@ Panelists are listed by panel with areas of expertise and affiliation.
 
 ### Headache Panel
 
+* Jonathan Elias, MD, Information Services, Pediatrics & Population Health Sciences, WCPO
 * Keith Hentel, MD, MS, ED & MSK Radiology, Informatics, WCPO
 * Louise Klebanoff, MD, Neurology, WCPO
 * Richard Lappin, MD, Emergency Medicine, WCPO
 * Angela Lignelli, MD, Neuroimaging, Columbia P&S
 * Joshua Lantos, MD, Neuroimaging, WCPO
-* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
 * Alvin Mushlin, MD, Public Health/Population Health, WCPO
 * Jessica Rotman, MD, ED & MSK Radiology, WCPO
 * Rahul Sharma, MD, MBA, Emergency Medicine, WCPO
@@ -61,13 +61,13 @@ Panelists are listed by panel with areas of expertise and affiliation.
 
 ### Neck Pain Panel
 
+* Jonathan Elias, MD, Information Services, Pediatrics & Population Health Sciences, WCPO
 * Brenna Farmer, MD, Emergency Medicine, WCPO
 * Keith Hentel, MD, MS, ED & MSK Radiology, Informatics WCPO
 * Jacob Kazam, MD, ED & MSK Radiology, WCPO
 * Louise Klebanoff, MD, Neurology, WCPO
 * Richard Lappin, MD, Emergency Medicine, WCPO
 * Angela Lignelli, MD, Neuroimaging, Columbia P&S
-* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
 * Joshua Lantos, MD, Neuroimaging, WCPO
 * Alvin Mushlin, MD, Public Health/Population Health, WCPO
 * Jessica Rotman, MD, ED & MSK Radiology, WCPO
@@ -84,10 +84,9 @@ Panelists are listed by panel with areas of expertise and affiliation.
 
 ### Lung Cancer Panel
 
-* Ian Drexler, MD Thoracic Imaging, WCPO
+* Jonathan Elias, MD, Information Services, Pediatrics & Population Health Sciences, WCPO
 * James Gruden Thoracic Imaging, WCPO
 * Keith Hentel, MD, MS, ED & MSK Radiology, Informatics WCPO
-* Sameer Malhotra MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
 * Bradley Pua, MD, Lung Cancer Imaging & Treatment, WCPO
 * Jessica Rotman, MD, ED & MSK Radiology, WCPO
 * George Shih MD, MS Informatics, WCPO
@@ -117,12 +116,12 @@ Panelists are listed by panel with areas of expertise and affiliation.
 
 ### Low Back Pain
 
+* Jonathan Elias, MD, Information Services, Pediatrics & Population Health Sciences, WCPO
 * Keith Hentel, MD, MS, ED & MSK Radiology, Informatics WCPO
 * Jacob Kazam, MD, ED & MSK Radiology, WCPO
 * Louise Klebanoff, MD, Neurology, WCPO
 * Richard Lappin, MD, Emergency Medicine, WCPO
 * Angela Lignelli, MD, Neuroimaging, Columbia P&S
-* Sameer Malhotra, MD, MA, Internal Medicine, Informatics, Health Policy Research, WCPO
 * Rahul Sharma, MD, MBA, Emergency Medicine, WCPO
 * Jessica Rotman, MD, ED & MSK Radiology, WCPO
 * Ralph Selepian, MD, Anesthesia/CMO, WCPO
