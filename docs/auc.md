@@ -30,7 +30,7 @@ All of the appropriate use criteria (AUC) that are approved and endorsed by Weil
 
 ### [Lung Cancer][lungcancer]
 
-<object width="80%" height="900" data="auc_files/WCM_-_Lung_Cancer_AUC_v12.pdf"></object>
+<object width="80%" height="900" data="auc_files/WCM_-_LCS_AUC_v14.pdf"></object>
 
 [Download PDF][lungcancer]
 
@@ -69,7 +69,7 @@ for (var i = 0; i < links.length; i++) {
   [headache]: /auc_files/WCM_-_Headache_AUC_v11.pdf
   [hippain]: /auc_files/WCM_-_Hip_Pain_AUC_v10.pdf
   [lowerbackpain]: /auc_files/WCM_-_LBP_AUC_v16.pdf
-  [lungcancer]: /auc_files/WCM_-_Lung_Cancer_AUC_v12.pdf
+  [lungcancer]: /auc_files/WCM_-_LCS_AUC_v14.pdf
   [neckpain]: /auc_files/WCM_-_Neck_Pain_AUC_v9.pdf
   [pe]: /auc_files/WCM_-_PE_AUC_v9.pdf
   [shoulder]: /auc_files/WCM_-_Shoulder_Pain_AUC_v11.pdf
