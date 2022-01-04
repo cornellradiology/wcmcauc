@@ -8,10 +8,10 @@ Medical School Library of Evidence (HMSLOE).
   - Emergency/Musculoskeletal Radiologist
   - Executive Vice Chairman, Department of Radiology, WCPO
   - Chair, Patient Access & Experience
-* [Sameer Malhotra, MD]({{ "bios/Sameer_Malhotra.html" | absolute_url }})
-  - Medicine/Primary Care
-  - Associate Medical Director of Informatics, WCPO
-  - Associate Professor of Healthcare Policy and Research
+* Jonathan Elias, MD
+  - Instructor in Pediatrics, WC Primary Care
+  - Assistant Medical Director of Information Services, WCPO
+  - Instructor in Population Health Sciences
 * [Thomas S Jessen, JD]({{ "bios/Thomas_Jessen.html" | absolute_url }})
   - WCPO Imaging AUC Program Director
   - Lead Informaticist
